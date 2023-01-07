@@ -1,6 +1,10 @@
 *{
     font-family: system-ui;
 }
+
+
+
+
       /* header styles are here */
 .head-sec{
     background-image: url(images/banner3.png);
@@ -8,6 +12,7 @@
     width: 1600px;
     padding-top: 170px;
     text-align: right;
+    
     
 }
 
@@ -65,12 +70,14 @@
 .mid-title-2{
     font-size: 40px;
     text-align: center;
+   
 }    
 
 .mid-sec-2>div.mid-icon{
     display: flex;
     margin: 50px 100px;
     justify-content: center;
+    padding-left: 200px;
 }
 
 .inside-div{
