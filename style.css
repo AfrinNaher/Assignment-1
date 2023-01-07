@@ -130,7 +130,7 @@
 
 .last-part-2{
     width: 400px;
-    padding: 100px 50px;
+    padding: 100px 100px;
     
 }
 
@@ -170,3 +170,42 @@
     border: none;
     border-radius: 5px;
 }
+
+         /* creative section. */
+
+.creative{
+    display: flex;
+    justify-content: center;
+    margin-left: 220px;
+    justify-content: space-between;
+}
+
+.crt-h3{
+    font-size: 40px;
+}
+
+.crt-h4{
+    font-size: 20px;
+}
+
+.ex-sec-1>form>input{
+    width: 250px;
+    height: 60px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 30px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: skyblue;
+    border: 5px ;
+    
+}
+
+.ex-sec-1{
+    width: 500px;
+    background-color: rgb(250, 205, 212);
+    padding: 10px;
+    border-radius: 10px;
+}
+
