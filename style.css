@@ -1,0 +1,32 @@
+*{
+    font-family: system-ui;
+}
+      /* header styles are here */
+.head-sec{
+    background-image: url(images/banner3.png);
+    height: 635px;
+    width: 1600px;
+    padding-top: 170px;
+    text-align: right;
+    
+}
+
+.head-div{
+    color: white;
+    padding-right: 220px;
+
+}
+
+.head-title{
+    font-size: 70px;
+}
+
+.title-btn{
+    height: 60px;
+    width: 160px;
+    font-size: 18px;
+    color: dodgerblue;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+}
