@@ -30,3 +30,60 @@
     border: none;
     border-radius: 5px;
 }
+
+     /* main styles are here. */
+          
+            /* section-1 */
+.mid-sec-1{
+    display: flex;
+}
+.mid-div-1>ul>li{
+   list-style-type: square;
+   font-size: 19px;
+}
+
+.mid-title{
+    font-size: 40px;
+}
+ .mid-div-1{
+    margin-top: 400px;
+    width: 400px;
+    
+ }
+
+ .mid-img{
+    margin: 150px 200px;
+    margin-right: 100px;
+ }
+
+ .mid-para{
+    font-size: 20px;
+ }
+
+           /* section-2 */
+
+.mid-title-2{
+    font-size: 40px;
+    text-align: center;
+}    
+
+.mid-sec-2>div.mid-icon{
+    display: flex;
+    margin: 50px 100px;
+    justify-content: center;
+}
+
+.inside-div{
+    padding-right: 80px;
+    width: 250px;
+}
+
+.inside-div>h3{
+    font-size: 30px;
+}
+
+.inside-div>p{
+    font-size: 22px;
+    font-weight: 500;
+    color: grey;
+}
