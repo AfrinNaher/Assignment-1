@@ -1,5 +1,6 @@
 *{
     font-family: system-ui;
+    
 }
 
 
@@ -12,8 +13,7 @@
     width: 1600px;
     padding-top: 170px;
     text-align: right;
-    
-    
+       
 }
 
 .head-div{
@@ -145,7 +145,8 @@
 .img-div{
    display: flex;
    padding-right: 20px;
-    
+   justify-content: left;
+   padding-right: 20px;
 }
 
 .input-part>input{
@@ -197,15 +198,18 @@
     padding-left: 30px;
     margin-bottom: 20px;
     color: white;
-    background-color: skyblue;
+    background-color: rgb(176, 224, 243);
     border: 5px ;
     
 }
 
 .ex-sec-1{
     width: 500px;
-    background-color: rgb(250, 205, 212);
+    background-color: rgb(252, 227, 230);
     padding: 10px;
     border-radius: 10px;
 }
 
+.ex-sec-2{
+    border-radius: 10px;
+}
